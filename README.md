@@ -27,5 +27,4 @@
 
 <ul>
 	<li>Projeto puramente didático com intuito de aprendizado sem má intenções</li>
-	<li>Não utilize para maus fins!!</li>
 </ul>
